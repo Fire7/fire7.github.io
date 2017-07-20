@@ -1,0 +1,22 @@
+.Counter_Counter_84fCt {
+    margin: 0 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.TestButton_Button_1e4DP {
+    padding: 5px 10px;
+    border: 2px solid #ffb809;
+    display: inline-block;
+    border-radius: 20px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    cursor: pointer
+}
+.TestButton_Button_1e4DP span {
+        color: #000000
+}
+.Header_header_1Xm7V {
+    width: 100%;
+}
