@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["app.js","34f7ba5740b166782c3865bdf026c691"],["index.html","2883434ec560303e8fd31c2716641168"],["styles.css","e765ea58b5717e620c07de6ea7d6add4"],["vendor.js","e3ef2bac350c33c4dc069df2d9943e5b"]];
+var precacheConfig = [["app.js","6a03e92cdb00a8249369b58c4a6fddb5"],["index.html","2883434ec560303e8fd31c2716641168"],["styles.css","e765ea58b5717e620c07de6ea7d6add4"],["vendor.js","3072d091c941a102e7c73289043aacf8"]];
 var cacheName = 'sw-precache-v3-4game-launcher-' + (self.registration ? self.registration.scope : '');
 
 
